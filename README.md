@@ -1,6 +1,6 @@
 # Cyclistic_case_study
 
-This dashboard effectively captures key metrics that can inform strategic decisions for bike-sharing services. Great job on the visualization!
+This dashboard effectively captures key metrics that can inform strategic decisions for bike-sharing services.
 
 Ridership Patterns: Casual riders are more active on weekends, while members show consistent ridership throughout the week.
 
