@@ -10,4 +10,4 @@ Peak Hours: The most common times for starting rides are around 8 AM and 5 PM.
 
 Trip Duration: Casual riders tend to have longer trips, especially on weekends, with most trips lasting between 11-30 minutes.
 
-User Growth: There is a projected increase in both member and casual users for the year 2022.
+
